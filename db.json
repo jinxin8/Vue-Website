@@ -1,0 +1,77 @@
+{
+      "newsList":[
+        {
+          "title":"白敬亭的篮球梦",
+          "url":"https://baijiahao.baidu.com/s?id=1592661371946161182&wfr=spider&for=pc"
+        },
+        {
+          "title":"白敬亭澄清秋裤",
+          "url":"http://ent.sina.com.cn/tv/zy/2017-11-04/doc-ifynnnsc5588636.shtml"
+        },
+        {
+          "title":"白敬亭回归明真",
+          "url":"http://www.sohu.com/a/227943856_267454"
+        },
+        {
+          "title":"二十四小时夺冠",
+          "url":"http://www.menww.com/yule/zongyi/2018022420627.html",
+          "hot":true
+        }  
+      ],
+  "login":[
+    {
+      "username":"denglu",
+      "userId":123123
+    },
+    {
+      "username":"denglu1",
+      "userId":234234
+    },
+    {
+      "username":"denglu2",
+      "userId":345345
+    }
+  ],
+  "getPrice": {
+    "amount": 678
+  },
+  "createOrder": {
+    "orderId": "6djk979"
+  },
+  "getOrderList": {
+    "list": [
+      {
+        "orderId": "ddj123",
+        "product": "明星大侦探",
+        "version": "高清",
+        "period": "100分钟",
+        "buyNum": 2,
+        "date": "2017-10-15"
+      },
+      {
+        "orderId": "yuj583",
+        "product": "二十四小时",
+        "version": "超清",
+        "period": "90分钟",
+        "buyNum": 1,
+        "date": "2018-02-02"
+      },
+      {
+        "orderId": "pmd201",
+        "product": "谁的青春不迷茫",
+        "version": "标清",
+        "period": "126分钟",
+        "buyNum": 1,
+        "date": "2016-04-22"
+      },
+      {
+        "orderId": "asd123",
+        "product": "匆匆那年",
+        "version": "超清",
+        "period": "60分钟",
+        "buyNum": 5,
+        "date": "2016-06-21"
+      }
+    ]
+  }
+}
