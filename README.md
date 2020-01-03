@@ -1,6 +1,6 @@
 # vue-baiwang
 
-> A Vue.js project
+> 一个使用Vue开发的简单网站，可用于Vue初学者学习使用
 
 ## Build Setup
 
